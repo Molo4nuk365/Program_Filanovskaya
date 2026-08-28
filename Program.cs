@@ -10,7 +10,7 @@ class Program
     static int Result ()
     { 
 
-        return 0;
+        return 100;
     }
 }
 
